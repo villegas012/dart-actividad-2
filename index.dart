@@ -6,8 +6,13 @@ import 'exercises/ex04_circle_perimeter.dart';
 import 'exercises/ex05_midweek_day.dart';
 import 'exercises/ex06_tax_calculator.dart';
 import 'exercises/ex07_remainder_finder.dart';
+import 'exercises/ex08_sum_of_evens.dart';
 import 'exercises/ex09_fraction_difference.dart';
+import 'exercises/ex10_string_length.dart';
 import 'exercises/ex11_average_of_four.dart';
+import 'exercises/ex12_smallest_of_five.dart';
+import 'exercises/ex13_vowel_counter.dart';
+import 'exercises/ex14_factorial_finder.dart';
 import 'exercises/ex15_in_range_validator.dart';
 import 'utils.dart';
 
@@ -21,8 +26,13 @@ void main() {
     MidweekDay(),
     TaxCalculator(),
     RemainderFinder(),
+    SumOfEvens(),
     FractionDifference(),
+    StringLength(),
     AverageOfFour(),
+    SmallestOfFive(),
+    VowelCounter(),
+    FactorialFinder(),
     InRangeValidator(),
   ];
 
