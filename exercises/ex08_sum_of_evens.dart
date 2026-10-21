@@ -1,5 +1,4 @@
 import '../exercise.dart';
-import '../utils.dart';
 
 class SumOfEvens extends Exercise {
   SumOfEvens() : super(8, 'Sum of Evens');
