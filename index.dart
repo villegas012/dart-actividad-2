@@ -2,8 +2,12 @@ import 'exercise.dart';
 import 'exercises/ex01_positive_power.dart';
 import 'exercises/ex02_double_or_triple.dart';
 import 'exercises/ex03_root_or_square.dart';
+import 'exercises/ex04_circle_perimeter.dart';
 import 'exercises/ex05_midweek_day.dart';
 import 'exercises/ex06_tax_calculator.dart';
+import 'exercises/ex07_remainder_finder.dart';
+import 'exercises/ex09_fraction_difference.dart';
+import 'exercises/ex11_average_of_four.dart';
 import 'exercises/ex15_in_range_validator.dart';
 import 'utils.dart';
 
@@ -13,8 +17,12 @@ void main() {
     PositivePower(),
     DoubleOrTriple(),
     RootOrSquare(),
+    CirclePerimeter(),
     MidweekDay(),
     TaxCalculator(),
+    RemainderFinder(),
+    FractionDifference(),
+    AverageOfFour(),
     InRangeValidator(),
   ];
 
